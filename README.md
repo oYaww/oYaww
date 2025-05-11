@@ -5,11 +5,11 @@
 ---
 
 ## 🚀 Currently Working On
-- Soon
+- Building my portfolio website.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=oYaww&show_icons=true&hide=prs&count_private=true&theme=radical)
 
