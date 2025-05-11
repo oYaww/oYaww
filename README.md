@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hey there, I'm **Yaw**!
 
-<!--
-**oYaww/oYaww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a passionate Developer constantly learning and improving in **HTML**, **CSS**, and **Electron**. 
 
-Here are some ideas to get you started:
+⚡ Always excited to create, innovate, and collaborate on projects that make an impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Working On
+- Soon
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=oYaww&show_icons=true&hide=prs&count_private=true&theme=radical)
+
+---
+
+## 📫 How to Reach Me
+- Discord: .Yaw
