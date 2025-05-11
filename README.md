@@ -15,5 +15,11 @@
 
 ---
 
+## 🌍 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oYaww&langs_count=5&theme=radical)
+
+---
+
 ## 📫 How to Reach Me
 - Discord: .Yaw
