@@ -2,8 +2,6 @@
 
 🚀 I'm a passionate Developer constantly learning and improving in **HTML**, **CSS**, and **Electron**. 
 
-⚡ Always excited to create, innovate, and collaborate on projects that make an impact.
-
 ---
 
 ## 🚀 Currently Working On
