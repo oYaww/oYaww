@@ -1,14 +1,14 @@
 # 👋 Hey there, I'm **Yaw**!
 
 🚀 I'm a passionate Developer constantly learning and improving in 
-**![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)**, 
-**![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)**, 
-**![Electron](https://img.shields.io/badge/Electron-%2320232a.svg?style=for-the-badge&logo=electron&logoColor=9FEAF9)**, 
-**![Python](https://img.shields.io/badge/Python-%2337769E.svg?style=for-the-badge&logo=python&logoColor=white)**,
-**![Discord.js](https://img.shields.io/badge/Discord.js-%2378A1C4.svg?style=for-the-badge&logo=discord&logoColor=white)**, 
-**![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)**,
-**![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)**, 
-**![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)**.
+**![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)**, 
+**![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)**, 
+**![Electron](https://img.shields.io/badge/Electron-%2320232a.svg?style=flat-square&logo=electron&logoColor=9FEAF9)**, 
+**![Python](https://img.shields.io/badge/Python-%2337769E.svg?style=flat-square&logo=python&logoColor=white)**,
+**![Discord.js](https://img.shields.io/badge/Discord.js-%2378A1C4.svg?style=flat-square&logo=discord&logoColor=white)**, 
+**![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)**,
+**![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)**, 
+**![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=61DAFB)**.
 
 ---
 
