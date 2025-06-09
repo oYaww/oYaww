@@ -10,6 +10,7 @@
 ![Electron](https://img.shields.io/badge/Electron-0D1117?style=flat&logo=electron&logoColor=9FEAF9)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=3776AB)
 ![Discord.js](https://img.shields.io/badge/Discord.js-0D1117?style=flat&logo=discord&logoColor=5865F2)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat&logo=java&logoColor=007396)
 
 ---
 
